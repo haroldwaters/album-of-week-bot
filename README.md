@@ -1,6 +1,13 @@
 # Album of the Week Bot
 A bot to help pick an album of the week from amongst your friends
 
+### Clone the repo
+To clone the repo locally, run:
+
+```bash
+git clone git@github.com:haroldwaters/album-of-week-bot.git
+```
+
 ## Install Pre-requisites
 Run the following code snippet to install NVM (Node Version Manager) and Node 12
 ```bash
