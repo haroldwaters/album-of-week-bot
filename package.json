@@ -1,0 +1,14 @@
+{
+  "name": "discord-aotw",
+  "version": "0.0.0",
+  "description": "An Album of the Week Discord Bot",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Harold & Harold Waters",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
