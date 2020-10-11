@@ -41,14 +41,14 @@ To start the app, simply run `npm run start`
 ## Roadmap
 1. ~~Set up repo~~
 2. Set up a cron to post on Mondays
- 1. Progamatically pull the correct channel to post in
- 2. Randomly select winner from recent particpants in the channel 
+    * Progamatically pull the correct channel to post in
+    * Randomly select winner from recent particpants in the channel 
 3. Add in a sign-up command and store participants
- 1. Store users in either a flat file or sqlite database
- 2. Randomly select winner from users who have signed up
+    * Store users in either a flat file or sqlite database
+    * Randomly select winner from users who have signed up
 4. Using Spotify links, add new albums to an existing playlist
- 1. Add command to add album of the week to playlist
- 2. Automatically detect Spotify link from winner and add to playlist
+    * Add command to add album of the week to playlist
+    * Automatically detect Spotify link from winner and add to playlist
 
 ## Credits
 The starter file is taken from the most excellent [Discord.js Guide](https://discordjs.guide/)
