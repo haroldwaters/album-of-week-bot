@@ -14,6 +14,9 @@ Run the following code snippet to install NVM (Node Version Manager) and Node 12
 bash install-prereqs.bash
 ```
 
+## Install node_modules
+Once node is install run `npm install` to install the depedencies found in `package.json`
+
 ## Getting your client token
 ### Create an Application
 First you'll need to create an application in the Discord Developer Portal [here](https://discord.com/developers/applications).
